@@ -357,7 +357,7 @@ local CurrentCamera: Camera? = cloneref(workspace.CurrentCamera);
 
 local Compkiller = {
 	Version = '2.6',
-	Logo = "rbxassetid://120245531583106",
+	Logo = "rbxassetid://96737509296961",
 	Windows = {},
 	Scale = {
 		Window = UDim2.new(0, 485,0, 565),
@@ -373,8 +373,8 @@ local Compkiller = {
 };
 
 Compkiller.Colors = {
-	Highlight = Color3.fromRGB(17, 238, 253),
-	Toggle = Color3.fromRGB(14, 203, 213),
+	Highlight = Color3.fromRGB(255, 255, 255),
+	Toggle = Color3.fromRGB(255, 255, 255),
 	Risky = Color3.fromRGB(251, 255, 39),
 	BGDBColor = Color3.fromRGB(22, 24, 29),
 	BlockColor = Color3.fromRGB(28, 29, 34),
